@@ -1,0 +1,53 @@
+[
+    {
+        "categoria": "Banderas de Paises",
+        "pregunta": "¿A qué país pertenece esta bandera?",
+        "respuesta": "Ciudad del Vaticano",
+        "incorrecta1": "Sri Lanka",
+        "incorrecta2": "Catar",
+        "incorrecta3": "Bután",
+        "imagen": "https://img.playbuzz.com/image/upload/ar_1.5,c_crop/q_auto:good,f_auto,fl_lossy,w_640,c_limit,dpr_1/v1564736247/w74rtaaoqjyotwwvyaio.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Banderas de Paises",
+        "pregunta": "¿A qué país pertenece esta bandera?",
+        "respuesta": "Costa de Marfil",
+        "incorrecta1": "Etiopia",
+        "incorrecta2": "India",
+        "incorrecta3": "Nigeria",
+        "imagen": "https://img.playbuzz.com/image/upload/ar_1.5,c_crop/q_auto:good,f_auto,fl_lossy,w_640,c_limit,dpr_1/v1564736667/syq1lmdkgkyfrketaaph.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Banderas de Paises",
+        "pregunta": "¿A qué país pertenece esta bandera?",
+        "respuesta": "Comoras",
+        "incorrecta1": "Burundi",
+        "incorrecta2": "Eritrea",
+        "incorrecta3": "Burkina Faso",
+        "imagen": "https://img.playbuzz.com/image/upload/ar_1.5,c_crop/q_auto:good,f_auto,fl_lossy,w_640,c_limit,dpr_1/v1564736881/iue0i808ri4rhzbj38tr.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Banderas de Paises",
+        "pregunta": "¿A qué país pertenece esta bandera?",
+        "respuesta": "Panamá",
+        "incorrecta1": "Paraguay",
+        "incorrecta2": "República Dominicana",
+        "incorrecta3": "Chile",
+        "imagen": "https://img.playbuzz.com/image/upload/ar_1.5,c_crop/q_auto:good,f_auto,fl_lossy,w_640,c_limit,dpr_1/v1564737173/k2uqem33v2v3axz1cnk5.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Banderas de Paises",
+        "pregunta": "¿A qué país pertenece esta bandera?",
+        "respuesta": "Luxemburgo",
+        "incorrecta1": "Francia",
+        "incorrecta2": "Paises Bajos",
+        "incorrecta3": "Croacia",
+        "imagen": "https://img.playbuzz.com/image/upload/ar_1.5,c_crop/q_auto:good,f_auto,fl_lossy,w_640,c_limit,dpr_1/v1564736951/wbokmenyc8cfmqprl1vb.jpg",
+        "objectFit": "cover"
+    }
+    
+]

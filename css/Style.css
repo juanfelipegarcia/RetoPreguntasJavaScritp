@@ -1,0 +1,46 @@
+.card {
+    margin-top: 50px;
+}
+
+.card1 {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.card2{
+ margin-bottom: 50px;
+
+}
+
+#nombreHelp{
+    color: red;
+}
+
+.botones{
+    margin-top: 20px; 
+}
+
+.btna {
+    background: white;
+    color: black;
+    width: 60%;
+    max-width: 550px;
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+    border-color: black;
+    border-radius: 5px;
+  }
+
+  .btna:hover {
+    transform: scale(1.05);
+    color: blue;
+    background: rgba(128, 128, 128, 0.288);
+  }
+
+  
+  .encabezado{
+      text-align: center;
+      margin-top: 20px;
+     
+  }

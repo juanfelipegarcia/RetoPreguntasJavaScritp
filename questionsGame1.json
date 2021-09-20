@@ -1,0 +1,53 @@
+[
+    {
+        "categoria": "Inventos",
+        "pregunta": "¿Quién fue el inventor de el automóvil?",
+        "respuesta": "Carl Benz",
+        "incorrecta1": "Louis Renault",
+        "incorrecta2": "Henry Ford",
+        "incorrecta3": "Rudolf Diesel",
+        "imagen": "https://www.planetacurioso.com/wp-content/uploads/2018/03/karl-benz-primer-automovil-original-768x462.jpeg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Inventos",
+        "pregunta": "¿Quien fue el inventor de el telefono?",
+        "respuesta": "Antonio Meucci",
+        "incorrecta1": "Alexander Graham Bell",
+        "incorrecta2": "John Peirce",
+        "incorrecta3": "Amos Dolbear",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Antonio_Meucci.jpg/800px-Antonio_Meucci.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Inventos",
+        "pregunta": "¿Quién fue el inventor de la radio?",
+        "respuesta": "Nikola Tesla",
+        "incorrecta1": "Guglielmo Marconi",
+        "incorrecta2": "Henry H.C, Dunwoody",
+        "incorrecta3": "George Frost",
+        "imagen": "https://i1.wp.com/hipertextual.com/wp-content/uploads/2014/06/Nikola-Tesla.jpg?w=1920&ssl=1",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Inventos",
+        "pregunta": "¿Quién fue el inventor de la televisión?",
+        "respuesta": "John Logie Baird",
+        "incorrecta1": "Constantine Perskyi",
+        "incorrecta2": "Manfred von Ardenne",
+        "incorrecta3": "Vladímir Zvorykin",
+        "imagen": "https://www.biografiasyvidas.com/biografia/b/fotos/baird.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Inventos",
+        "pregunta": "¿Quien fue el inventor de el avion?",
+        "respuesta": "Hermanos Wright",
+        "incorrecta1": "Alberto Santos Dumont",
+        "incorrecta2": "Victor Tatin",
+        "incorrecta3": "E. Lilian Todd",
+        "imagen": "https://escueladeaviacionflying.co/wp-content/uploads/2020/12/Quienes-inventaron-el-primer-avion-1200x480.jpg",
+        "objectFit": "cover"
+    }
+    
+]

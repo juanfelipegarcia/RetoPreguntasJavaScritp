@@ -1,0 +1,53 @@
+[
+    {
+        "categoria": "Banderas de departamentos de Colombia",
+        "pregunta": "¿A qué Departamendo de Colombia pertenece esta bandera?",
+        "respuesta": "Magdalena",
+        "incorrecta1": "La Guajira",
+        "incorrecta2": "Cordoba",
+        "incorrecta3": "Bolívar",
+        "imagen": "https://geopoliticaybanderas.files.wordpress.com/2017/04/magdalena.png",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Banderas de departamentos de Colombia",
+        "pregunta": "¿A qué Departamendo de Colombia pertenece esta bandera?",
+        "respuesta": "Quindío",
+        "incorrecta1": "Caldas",
+        "incorrecta2": "Risaralda",
+        "incorrecta3": "Putumayo",
+        "imagen": "https://geopoliticaybanderas.files.wordpress.com/2016/03/quindc3ado.png",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Banderas de departamentos de Colombia",
+        "pregunta": "¿A qué Departamendo de Colombia pertenece esta bandera?",
+        "respuesta": "Santander",
+        "incorrecta1": "Sucre",
+        "incorrecta2": "Valle del Cauca",
+        "incorrecta3": "Vaupés",
+        "imagen": "https://geopoliticaybanderas.files.wordpress.com/2019/05/santander.png",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Banderas de departamentos de Colombia",
+        "pregunta": "¿A qué Departamendo de Colombia pertenece esta bandera?",
+        "respuesta": "Meta",
+        "incorrecta1": "Nariño",
+        "incorrecta2": "Tolima",
+        "incorrecta3": "La Guajira",
+        "imagen": "https://geopoliticaybanderas.files.wordpress.com/2016/03/meta.png",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Banderas de departamentos de Colombia",
+        "pregunta": "¿A qué Departamendo de Colombia pertenece esta bandera?",
+        "respuesta": "Choco",
+        "incorrecta1": "Cesar",
+        "incorrecta2": "Cauca",
+        "incorrecta3": "Casanare",
+        "imagen": "https://geopoliticaybanderas.files.wordpress.com/2016/03/chocc3b3.png",
+        "objectFit": "cover"
+    }
+    
+]

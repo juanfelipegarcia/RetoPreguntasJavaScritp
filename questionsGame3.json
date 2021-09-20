@@ -1,0 +1,53 @@
+[
+    {
+        "categoria": "Antonimos",
+        "pregunta": "A continuación les presentamos una serie de palabras y cuatro alternativas de respuesta; habrá que elegir la que  es antonima de la palabra propuesta: ESCÉPTICO",
+        "respuesta": "Crédulo",
+        "incorrecta1": "Ateo",
+        "incorrecta2": "Desconfiado",
+        "incorrecta3": "Piadoso",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Antonimos",
+        "pregunta": "A continuación les presentamos una serie de palabras y cuatro alternativas de respuesta; habrá que elegir la que  es antonima de la palabra propuesta: ATESTAR",
+        "respuesta": "Vaciar",
+        "incorrecta1": "Aflojar",
+        "incorrecta2": "Apilar",
+        "incorrecta3": "Desencadenar",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Antonimos",
+        "pregunta": "A continuación les presentamos una serie de palabras y cuatro alternativas de respuesta; habrá que elegir la que  es antonima de la palabra propuesta: DEBILITADO",
+        "respuesta": "Rebustecido",
+        "incorrecta1": "Enervado",
+        "incorrecta2": "Enajenado",
+        "incorrecta3": "Reformado",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Antonimos",
+        "pregunta": "A continuación les presentamos una serie de palabras y cuatro alternativas de respuesta; habrá que elegir la que  es antonima de la palabra propuesta: INOCUO",
+        "respuesta": "Dañino",
+        "incorrecta1": "Peligroso",
+        "incorrecta2": "Atrevido",
+        "incorrecta3": "Sencillo",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Antonimos",
+        "pregunta": "A continuación les presentamos una serie de palabras y cuatro alternativas de respuesta; habrá que elegir la que  es antonima de la palabra propuesta: PUBLICO",
+        "respuesta": "Privado",
+        "incorrecta1": "Espectador",
+        "incorrecta2": "Propio",
+        "incorrecta3": "Prestado",
+        "imagen": "",
+        "objectFit": "cover"
+    }
+    
+]

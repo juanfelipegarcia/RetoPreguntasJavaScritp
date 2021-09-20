@@ -1,0 +1,53 @@
+[
+    {
+        "categoria": "Sinonimos",
+        "pregunta": "A continuación les presentamos una serie de palabras y cuatro alternativas de respuesta; habrá que elegir la que NO es sinónimo de la palabra propuesta: ABIGARRADO",
+        "respuesta": "Uniforme",
+        "incorrecta1": "Desarreglado",
+        "incorrecta2": "Descompuesto",
+        "incorrecta3": "Mezclado",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Sinonimos",
+        "pregunta": "A continuación les presentamos una serie de palabras y cuatro alternativas de respuesta; habrá que elegir la que NO es sinónimo de la palabra propuesta: ABSTRUSO",
+        "respuesta": "Extrovertido",
+        "incorrecta1": "Profundo",
+        "incorrecta2": "Recóndito",
+        "incorrecta3": "Impenetrable\r",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Sinonimos",
+        "pregunta": "A continuación les presentamos una serie de palabras y cuatro alternativas de respuesta; habrá que elegir la que NO es sinónimo de la palabra propuesta: ABÚLICO",
+        "respuesta": "Motivado",
+        "incorrecta1": "Apático",
+        "incorrecta2": "Indiferente",
+        "incorrecta3": "Perezoso",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Sinonimos",
+        "pregunta": "A continuación les presentamos una serie de palabras y cuatro alternativas de respuesta; habrá que elegir la que NO es sinónimo de la palabra propuesta: ACERBO",
+        "respuesta": "Amplio",
+        "incorrecta1": "Aspero",
+        "incorrecta2": "Rudo",
+        "incorrecta3": "Tosco",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Sinonimos",
+        "pregunta": "A continuación les presentamos una serie de palabras y cuatro alternativas de respuesta; habrá que elegir la que NO es sinónimo de la palabra propuesta: ADALID",
+        "respuesta": "Místico",
+        "incorrecta1": "Líder",
+        "incorrecta2": "Caudillo",
+        "incorrecta3": "Cabecilla",
+        "imagen": "",
+        "objectFit": "cover"
+    }
+    
+]
